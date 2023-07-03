@@ -1,0 +1,35 @@
+{
+  "manifest_version": 2,
+  "version": "1.0",
+  "name": "PandaTheme",
+  "theme": {
+    "images": {
+      "additional_backgrounds": [
+        "images/bg-000-5672c42860d5b06e1058dc477397f3ef.svg"
+      ]
+    },
+    "properties": {
+      "additional_backgrounds_alignment": [
+        "top"
+      ],
+      "additional_backgrounds_tiling": [
+        "repeat"
+      ]
+    },
+    "colors": {
+      "toolbar": "rgb(0, 0, 0)",
+      "toolbar_text": "rgb(143, 143, 143)",
+      "frame": "rgb(0, 0, 0)",
+      "tab_background_text": "rgb(140, 140, 140)",
+      "toolbar_field": "rgb(0, 0, 0)",
+      "toolbar_field_text": "rgb(255, 255, 255)",
+      "tab_line": "rgb(53, 255, 220)",
+      "popup": "rgb(0, 0, 0)",
+      "popup_text": "rgb(140, 140, 140)",
+      "popup_border": "rgb(53, 255, 220)",
+      "tab_selected": "rgb(236, 40, 100)",
+      "tab_text": "rgb(255, 255, 255)",
+      "tab_loading": "rgb(53, 255, 220)"
+    }
+  }
+}
